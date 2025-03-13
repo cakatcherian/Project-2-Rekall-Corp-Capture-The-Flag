@@ -1,0 +1,1 @@
+In this project, I was tasked by “Rekall Corp” to conduct an internal and external penetration test of its network and system. This was to expose any vulnerabilities that may exist and assess their severity. This was a CTF (Capture the Flag) activity which was very fun! What I found was alarming so check it out below!
